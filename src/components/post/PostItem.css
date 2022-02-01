@@ -1,0 +1,19 @@
+.card {
+	text-align: center;
+	width: 300px;
+	border: 1px solid black;
+	margin: 0 auto;
+	padding: 20px;
+}
+.first {
+	display: flex;
+}
+.title {
+	font-weight: bold;
+}
+.id {
+	font-size: larger;
+	border: 1px solid black;
+	padding: 10px;
+	margin: 5px;
+}
